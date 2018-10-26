@@ -71,7 +71,7 @@ A curated list of awesome resources, learning materials, tools, frameworks, plat
   - Discussions: [HN](https://news.ycombinator.com/item?id=13406081).
 - [Create Your Own Programming Languauge](http://createyourproglang.com/) - Example-driven approach to building your own programming language with video tutorials and source code projects.
   - Discussions: [HN](https://news.ycombinator.com/item?id=813133).
-- [Engineering a Compiler](https://www.amazon.com/dp/012088478X) - The modern textbook on Compilers Construction, covering SSA-Form and recent research on Code Generation.
+- [Engineering a Compiler (reading)](https://github.com/germanoa/compiladores/blob/master/doc/ebook/Engineering%20a%20Compiler%20-%202nd%20Edition%20-%20K.%20Cooper,%20L.%20Torczon%20%28Morgan%20Kaufman,%202012%29.pdf) - The modern textbook on Compilers Construction, covering SSA-Form and recent research on Code Generation.
 - [Essentials of Programming Languages](https://www.amazon.com/dp/0262062798) - Fundamental concepts of programming languages with a focus on Semantics, Interpretation and CPS (Continuation Passing Style).
 - [Language Implementation Patterns (reading)](https://doc.lagout.org/programmation/Pragmatic%20Programmers/Language%20Implementation%20Patterns.pdf) - Learn the patterns behind building programming languages and build an interpreter yourself, using ANTLR.
 - [Modern Compiler Implementation in ML](https://www.cs.princeton.edu/~appel/modern/ml/) - Build a compiler using ML (MetaLanguage) with a textbook that has one of the best coverage on all compiler stages. The book comes with a reference compiler implementation to guide your software development process.
